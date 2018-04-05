@@ -12,6 +12,9 @@
             "email": "rafaelschneider@gmail.com"
         }
     ],
+    "require": {
+        "wolfapi/wolfapi": "*"
+    },
     "scripts": {
         "start": "php -S localhost:8080 -t public"
     }
