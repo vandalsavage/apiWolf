@@ -5,11 +5,11 @@
     "authors": [
         {
             "name": "Domicio Ribon",
-            "email": "domicioribon@gmail.com",
+            "email": "domicioribon@gmail.com"
         },
         {
             "name": "Rafael Schneider",
-            "email": "rafaelschneider@gmail.com",
+            "email": "rafaelschneider@gmail.com"
         }
     ],
     "scripts": {
